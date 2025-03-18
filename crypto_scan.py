@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CryptoMiner Scanner - Detects cryptojacking in startup scripts and containers.
-Author: [Your Name]
+Author: Thomas Stone @ TargetProof, LLC.
 License: MIT
 Requires: pip install boto3 google-cloud-compute azure-mgmt-compute azure-identity
 Setup: Configure AWS/GCP/Azure credentials via CLI/SDKs.
